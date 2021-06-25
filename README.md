@@ -1,1 +1,1 @@
-# just an example of a simple server with Node and Express
+# Just an example of a simple server with Node and Express
